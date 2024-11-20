@@ -1,13 +1,15 @@
+# Decrypting Ciphertext using Hidden Markov Model (HMM)
 
-#Project: Decrypting Ciphertext using Hidden Markov Model (HMM)
-##Overview
-This project demonstrates how Hidden Markov Models (HMMs) can be leveraged to decode ciphertext into meaningful plaintext. The approach uses statistical patterns and sequence alignment to break encryption schemes, highlighting the versatility of HMMs in real-world cryptography tasks.
+## Overview
+This project demonstrates how Hidden Markov Models (HMMs) can be applied to decrypt ciphertext into meaningful plaintext. By leveraging statistical patterns and sequence alignment, the project showcases the potential of HMMs in solving real-world cryptography challenges.
 
-##Features
-Implementation of HMMs to analyze sequential data.
-Decoding ciphertext based on probabilistic inference and pattern recognition.
-Modular structure for training, evaluation, and decryption pipelines.
+## Features
+- Implementation of HMMs to analyze and decode sequential data.
+- Training and evaluation pipeline for HMM models.
+- Modular and extensible codebase for easy adaptation.
 
-##Technologies Used
-Python
-NumPy, SciPy, and pandas
+## Technologies Used
+- **Programming Language**: Python  
+- **Libraries**:  
+  - NumPy  
+  - Numba
